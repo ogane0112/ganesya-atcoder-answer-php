@@ -1,0 +1,2 @@
+# 使い方
+docker-compose run --rm php
