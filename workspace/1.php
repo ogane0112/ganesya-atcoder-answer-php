@@ -5,7 +5,7 @@ function doubles() { return array_map('doubleval', strings()); }
 function output(...$args) { echo implode(' ', $args), "\n"; }
 
 function main() {
-     
+
 
 
 }
